@@ -1,0 +1,15 @@
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ExpresionValidation.deps.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ExpresionValidation.runtimeconfig.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ExpresionValidation.runtimeconfig.dev.json
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ExpresionValidation.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ref/ExpresionValidation.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/bin/Debug/net5.0/ExpresionValidation.pdb
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.csproj.AssemblyReference.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.AssemblyInfoInputs.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.AssemblyInfo.cs
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.csproj.CoreCompileInputs.cache
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ref/ExpresionValidation.dll
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.pdb
+/Users/landrade/Desktop/Whitecleffe/DataStructure/Assign1/Question2/ExpresionValidation/obj/Debug/net5.0/ExpresionValidation.genruntimeconfig.cache
