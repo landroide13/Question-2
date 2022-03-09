@@ -23,6 +23,18 @@ namespace ExpresionValidation
             return expression;
         }
 
+        static void setScore(int pa, int sq, int cu, int ar)
+        {
+            if( (pa % 2) == 0 || (sq % 2) == 0 || (cu % 2) == 0 || (ar % 2) == 0)
+            {
+                Console.WriteLine("The Expression is Correct !!");
+            }
+            else
+            {
+                Console.WriteLine("The Expression is INCorrect !!");
+            }
+        }
+
         static void checkStack(Stack st)
         {
             int len = st.Count;
@@ -54,13 +66,12 @@ namespace ExpresionValidation
                     ar++;
                 }
             }
-            
-            Console.WriteLine("Length " + len);
 
-            Console.WriteLine("Parant " + par);
-            Console.WriteLine("square " + sq);
-            Console.WriteLine("Curly " + cu);
-            Console.WriteLine("Arrows " + ar);
+            Console.WriteLine();
+            Console.WriteLine("Length " + len);
+            
+            Console.WriteLine();
+            setScore(par, sq, cu, ar);
 
         }
         static void setStack(string s)
@@ -88,15 +99,6 @@ namespace ExpresionValidation
             string s = getExpression();
 
             setStack(s);
-
-            bool isSurroundedParens = false;
-
-            
-            if (!isSurroundedParens) 
-            {
-                Console.WriteLine();
-                Console.WriteLine("###### Expresion Incorrect ######");
-            }
 
         }
     }
